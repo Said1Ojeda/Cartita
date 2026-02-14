@@ -10,7 +10,7 @@ function toggleEnvelope() {
 }
 
 function escribirMensaje() {
-    const texto = "Melanie, desde que llegaste a mi vida todo cambió para mejor. Gracias por tu sonrisa, tu paciencia y tu forma única de ser. Eres mi persona favorita en este mundo. ❤️";
+    const texto = "Mi amor, desde que llegaste a mi vida todo cambió para mejor. Gracias por tu sonrisa, tu paciencia y tu forma única de ser. Eres mi persona favorita en este mundo, de verdad no sabes cuento te amoo ❤️";
     const elemento = document.getElementById("mensaje");
     
     let i = 0;
@@ -31,6 +31,7 @@ function createMagic() {
     setInterval(() => {
         createParticle("❤️");
         createParticle("✨");
+         createParticle("🥰");
     }, 300);
 }
 
@@ -52,4 +53,5 @@ document.addEventListener("mousemove", (e) => {
     const x = (window.innerWidth / 2 - e.pageX) / 30;
     const y = (window.innerHeight / 2 - e.pageY) / 30;
     document.querySelector('.envelope-wrapper').style.transform = `rotateY(${x}deg) rotateX(${y}deg)`;
+
 });
