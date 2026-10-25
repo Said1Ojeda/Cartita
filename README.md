@@ -6,7 +6,7 @@ Una experiencia digital interactiva diseñada con estética **Dark Glassmorphism
 
 ---
 
-## ✨ Características Principales
+## 🔗 Características Principales
 
 * **Sello de Lacre 3D Interactivo:** Animación de apertura con física fluida y partículas dinámicas al romper el sello.
 * **Caja Musical Integrada (Web Audio API):** Melodía procedimental que se activa automáticamente al abrir la carta, acompañada de efectos sonoros suaves sincronizados con la escritura sin depender de archivos MP3 externos.
@@ -17,7 +17,7 @@ Una experiencia digital interactiva diseñada con estética **Dark Glassmorphism
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🔗 Stack Usado
 
 * **HTML5** (Semántica, Canvas API)
 * **CSS3** (Variables CSS, Flexbox, Glassmorphism con `backdrop-filter`, Animaciones `@keyframes`)
@@ -26,7 +26,7 @@ Una experiencia digital interactiva diseñada con estética **Dark Glassmorphism
 
 ---
 
-## 🚀 Cómo usar o personalizar
+## 🔗 Cómo usar o personalizar
 
 ### 1. Desde la interfaz web (Sin código)
 1. Entra a [https://said1ojeda.github.io/Cartita/](https://said1ojeda.github.io/Cartita/).
